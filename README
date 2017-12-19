@@ -1,0 +1,4 @@
+Authorship Attribution
+
+Goal: A trained model should be able identify the author of a piece of text from the characteristics of the text.
+Training: A set of texts T={Ti}, and their respective authors A={Aj}
